@@ -1,0 +1,12 @@
+{
+  "name": "google-spreadsheet-writer",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.496.0",
+    "google-auth-library": "^9.4.2",
+    "google-spreadsheet": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.134"
+  }
+}
